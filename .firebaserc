@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "io-pi-ilonggo": {
+      "hosting": {
+        "app": [
+          "io-pi-ilonggo"
+        ]
+      }
+    }
+  }
+}
