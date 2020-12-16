@@ -7,5 +7,9 @@
         ]
       }
     }
+  },
+  "projects": {
+    "io-pi-il": "io-pi-ilonggo",
+    "default": "io-pi-ilonggo"
   }
 }
